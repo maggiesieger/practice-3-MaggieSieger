@@ -2,6 +2,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    /* Temp */
+    border: solid black 1px;
  }
 
  body{
@@ -15,6 +17,7 @@
  }
 
  nav{
-    border: solid black;
+    grid-column: span 5;
+
  }
 
