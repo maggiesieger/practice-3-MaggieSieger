@@ -66,3 +66,26 @@
  p{
     margin-bottom: 8px;
  }
+
+ .frame{
+    border: 6px solid #111111;
+ }
+
+ .bg-red{
+    background: #D40920;
+    color: #ffffff;
+ }
+
+ .bg-blue{
+    background: #1356A2;
+    color: #ffffff;
+ }
+
+ .bg-yellow{
+    background: #f7d842;
+    color: #111111;
+ }
+
+ .pad{
+    padding: 16px;
+ }
